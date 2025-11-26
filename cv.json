@@ -6,7 +6,7 @@
     "email": "calexanderolivaresa@gmail.com",
     "phone": "+52 55 4915 2925",
     "url": "https://midu.dev",
-    "summary": "+8 años de experiencia profesional principalmente en el sector bancario y medios de pago, me he destacado en areas operativas, gestión de productos y análisis de datos. Mi enfoque se centra en optimizar procesos, desarrollar estrategias de producto efectivas y utilizar análisis de datos para la toma de decisiones. En el último año, he ampliado mi experiencia como desarrollador front-end freelance, aplicando mis habilidades para ofrecer soluciones innovadoras y eficientes en este campo.",
+    "summary": "+10 años de experiencia profesional principalmente en el sector bancario y medios de pago, me he destacado en areas operativas, gestión de productos y análisis de datos. Mi enfoque se centra en optimizar procesos, desarrollar estrategias de producto efectivas y utilizar análisis de datos para la toma de decisiones. En el último año, he ampliado mi experiencia como desarrollador front-end freelance, aplicando mis habilidades para ofrecer soluciones innovadoras y eficientes en este campo.",
     "location": {
       "address": "",
       "postalCode": "54090",
@@ -28,6 +28,16 @@
     ]
   },
   "work": [
+    {
+      "name": "Global Payments",
+      "position": "Business Analyst/ Support and Research Specialist",
+      "startDate": "2024-07-03",
+      "endDate": null,
+      "summary": "implementación de proyectos BAU (backend), como repricing, mejoras en el producto, configuraciones de aceptación de divisas y brands (Visa–Mastercard). Investigación de problemas reportados por los merchants, como errores en reportes y montos por pagar. Todo esto a nivel Norteamérica (Estados Unidos), Europa (UK) y Asia-Pacífico.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
     {
       "name": "Global Payments Technology",
       "position": "Post Sales Specialist",
@@ -75,9 +85,26 @@
     "area": "Product Manager"
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
+    "name": "Product Onwer/Manager",
+    "date": "2024-10-11",
+    "issuer": "SAFe",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Scrum Master",
+    "date": "2024-10-11",
+    "issuer": "SAFe",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Safe Agilist",
+    "date": "2024-10-11",
+    "issuer": "SAFe",
+    "url": "https://certificate.com"
+  },{
+    "name": "Portafolio LeanManager",
+    "date": "2024-10-11",
+    "issuer": "SAFe",
     "url": "https://certificate.com"
   }],
   "publications": [{

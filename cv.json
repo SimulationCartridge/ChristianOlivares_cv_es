@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Christian Alexander Olivares Amador",
-    "label": "Ingeniero Redes y Software, Product Analyst, Frond-end Engineer JR",
+    "label": "Ingeniero Redes y Software, Business Analyst, Product - OPS",
     "image": "profile.jpg",
     "email": "calexanderolivaresa@gmail.com",
     "phone": "+52 55 4915 2925",
-    "url": "https://midu.dev",
-    "summary": "+10 años de experiencia profesional principalmente en el sector bancario y medios de pago, me he destacado en areas operativas, gestión de productos y análisis de datos. Mi enfoque se centra en optimizar procesos, desarrollar estrategias de producto efectivas y utilizar análisis de datos para la toma de decisiones. En el último año, he ampliado mi experiencia como desarrollador front-end freelance, aplicando mis habilidades para ofrecer soluciones innovadoras y eficientes en este campo.",
+    "url": "",
+    "summary": "Professional with 10+ years of experience in the banking and payments industry, specializing in project management, operations, and development.\nProven track record leading and delivering end-to-end initiatives, from requirements definition through implementation and monitoring, ensuring alignment with business objectives.\nStrong focus on Project Management Office (PMO) practices, managing both BAU and strategic projects across global environments (North America, Europe, and Asia Pacific).\nExperienced in stakeholder coordination, delivery tracking, risk management, and process optimization.\nSkilled in data-driven decision making, continuous improvement, and execution under agile methodologies.",
     "location": {
       "address": "",
       "postalCode": "54090",
@@ -33,7 +33,7 @@
       "position": "Business Analyst/ Support and Research Specialist",
       "startDate": "2024-07-03",
       "endDate": null,
-      "summary": "implementación de proyectos BAU (backend), como repricing, mejoras en el producto, configuraciones de aceptación de divisas y brands (Visa–Mastercard). Investigación de problemas reportados por los merchants, como errores en reportes y montos por pagar. Todo esto a nivel Norteamérica (Estados Unidos), Europa (UK) y Asia-Pacífico.",
+      "summary": "Led and supported BAU backend projects, including repricing initiatives, product enhancements, and configuration of currency acceptance and card brands (Visa/Mastercard), while coordinating initiatives across global regions (US, UK, APAC) to ensure delivery within scope, timeline, and quality standards. Conducted in-depth analysis of merchant-reported issues, such as report discrepancies and settlement amounts, identifying root causes and proposing effective solutions. Collaborated with cross-functional teams across product, technology, and operations to drive efficient execution, while monitoring operational metrics to support data-driven decision-making and continuous improvement.",
       "highlights": [
         "Started the company"
       ]
@@ -43,7 +43,7 @@
       "position": "Post Sales Specialist",
       "startDate": "2023-08-10",
       "endDate": null,
-      "summary": "Experiencia en atención postventa de clientes de alto valor, ofreciendo soporte técnico especializado en terminales y realizando análisis detallados del funcionamiento de productos de pago. Responsable de gestionar nuevas instalaciones físicas y aplicativos digitales, asegurando una implementación exitosa y satisfactoria para los clientes. Además, encargado de medir el uso del producto, generar reportes mensuales para áreas interesadas y levantar requerimientos de mejoras en conjunto con áreas de producto.",
+      "summary": "Managed end-to-end post-sales implementation projects for high-value clients, including physical terminals and digital payment solutions, coordinating internal and external stakeholders to ensure successful delivery within scope, timeline, and quality standards. Tracked product performance through KPIs and monthly reporting to inform project outcomes, identified improvement opportunities, and gathered requirements in collaboration with product teams, while providing specialized technical support to ensure operational continuity and high levels of customer satisfaction.",
       "highlights": [
         "Started the company"
       ]
@@ -53,7 +53,7 @@
       "position": "Product Operations Analyst",
       "startDate": "2021-08-01",
       "endDate": "2022-08-01",
-      "summary": "Como analista de producto, trabajé estrechamente con Product Owners para planificar el backlog, realicé pruebas previas a la implementación y aseguré una documentación detallada. Colaboré con stakeholders como marketing, diseño, customer service y desarrolladores para garantizar la alineación y el éxito del producto, utilizando metodologías ágiles como Kanban y Scrum. Además, generé reportes mensuales de medición del uso del producto para informar y mejorar continuamente su desempeño.",
+      "summary": "As a Product Operations Analyst, I supported product-related initiatives by working closely with Product Owners to plan and prioritize the backlog, conducting pre-release testing, and ensuring thorough documentation. I collaborated with cross-functional stakeholders—including marketing, design, customer service, and development teams—to drive alignment and successful delivery under agile methodologies such as Scrum and Kanban, while producing monthly product usage reports to enable data-driven decisions and continuous improvement.",
       "highlights": [
         "Started the company"
       ]
@@ -63,7 +63,7 @@
       "position": "Supervisor Backoffice Cuentas - Banca en linea",
       "startDate": "2019-08-24",
       "endDate": "2021-08-01",
-      "summary": "Supervisor de Backoffice con experiencia en la supervisión de equipos de operación de backoffice de cuentas. Experto en revisar y gestionar la documentación KYC y PLD de nuevos clientes, así como en la activación de cuentas y la creación de perfiles bancarios en el sistema. Especializado en la revisión de inversiones diarias y en la configuración de banca digital. Profesional dedicado a la revisión y documentación de nuevos procesos en colaboración con Product Managers. Responsable de la preparación y seguimiento de perfiles de clientes para auditorías internas y externas, garantizando el cumplimiento normativo y la eficiencia operativa.",
+      "summary": "Supervised backoffice operations and coordinated operational teams while managing KYC and AML processes to ensure regulatory compliance. Contributed to process improvement initiatives and documentation in collaboration with Product Managers, supported audit readiness by preparing and managing client profiles for internal and external reviews, and optimized operational processes while supporting digital banking configurations to enhance efficiency and service delivery.",
       "highlights": [
         "Started the company"
       ]
